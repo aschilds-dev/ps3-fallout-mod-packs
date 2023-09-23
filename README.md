@@ -49,7 +49,7 @@ Installation is simple really, just copy/replace "PS3_GAME" folder from my mod p
     the game. 
 
     Included Mods:
-    INCLUDED MOD LIST:
+    
     Blur Removed (PS3 Screenshot Fix)
     Addiction Cure
     Animal Wars
