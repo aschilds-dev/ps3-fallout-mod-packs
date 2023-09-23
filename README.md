@@ -48,54 +48,55 @@ Installation is simple really, just copy/replace "PS3_GAME" folder from my mod p
     Make sure you are deleting your "Game Data" and not your Game Save Data! If you delete your game save by accident it cannot be retrieved unless previously backed up! So make sure you are selecting "Game Data Utility" and NOT "Save Data Utility". Game Data for Fallout 3 can be deleted anytime, it will re-install what it needs next time you play 
     the game. 
 
-INCLUDED MOD LIST:
-Blur Removed (PS3 Screenshot Fix)
-Addiction Cure
-Animal Wars
-Big and Small
-Confederacy In Point Lookout
-Graphical Nuke Mod
-Height Randomizer
-Higher Vehicle Health
-Immersive Health
-Lil Critters
-Mafia in the Wasteland
-Megaton Bomb is Explosive
-No UI Blur
-Pistols Dont Dismember
-More Races
-Real Drugs
-Rude Awakening
-Salvageable cars
-Vendor Caps Doubled
-All Perks at Level 2
-Ammo is Explosive
-Auto Aim Fix
-Backpedal Enabled
-Clean water
-Clear Skies
-Companion Idles
-Corrected Clutter Weight
-Destructible Ordnance
-Enemy Weapon Lists Corrected
-Explosive Explosives
-Fast Travel Anytime
-Fast Travel Indoors
-Followers Relax
-Mini Nukes Explode
-Wastelanders Named
-No Repair With Uniques
-No Water Radiation
-Pure Water
-Real Drug Names
-Real Physics
-Real Wilderness Life
-Realistic Bullets
-Realistic Death Physics
-Mist Removed
-Responsive Kill Reactions
-Ammo Shells Rain
-Track No Crime
-A Decent House
-1,000,000 Caps Outside Vault 101
-HD Sound Overhaul
+    Included Mods:
+    INCLUDED MOD LIST:
+    Blur Removed (PS3 Screenshot Fix)
+    Addiction Cure
+    Animal Wars
+    Big and Small
+    Confederacy In Point Lookout
+    Graphical Nuke Mod
+    Height Randomizer
+    Higher Vehicle Health
+    Immersive Health
+    Lil Critters
+    Mafia in the Wasteland
+    Megaton Bomb is Explosive
+    No UI Blur
+    Pistols Dont Dismember
+    More Races
+    Real Drugs
+    Rude Awakening
+    Salvageable cars
+    Vendor Caps Doubled
+    All Perks at Level 2
+    Ammo is Explosive
+    Auto Aim Fix
+    Backpedal Enabled
+    Clean water
+    Clear Skies
+    Companion Idles
+    Corrected Clutter Weight
+    Destructible Ordnance
+    Enemy Weapon Lists Corrected
+    Explosive Explosives
+    Fast Travel Anytime
+    Fast Travel Indoors
+    Followers Relax
+    Mini Nukes Explode
+    Wastelanders Named
+    No Repair With Uniques
+    No Water Radiation
+    Pure Water
+    Real Drug Names
+    Real Physics
+    Real Wilderness Life
+    Realistic Bullets
+    Realistic Death Physics
+    Mist Removed
+    Responsive Kill Reactions
+    Ammo Shells Rain
+    Track No Crime
+    A Decent House
+    1,000,000 Caps Outside Vault 101
+    HD Sound Overhaul
