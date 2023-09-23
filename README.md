@@ -1,5 +1,5 @@
 # ps3-fallout3-elite-edition-mod-pack
-Fallout 3 GOTY Elite Edition Mod Pack
+Fallout 3 GOTY Elite Edition Mod Pack for PlayStation 3
 
 This is a reupload of the Fallout 3 Elite Edition Mod Pack for PlayStation 3 developed by Elite Electronics. More information can be located here: https://www.se7ensins.com/forums/threads/fallout-3-elite-edition-ps3-fallout-3-mods-40-mods-in-game-screeshot-fixed.1224188/
 
