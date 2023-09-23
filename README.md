@@ -10,6 +10,16 @@ Special thanks to Death_Dealer at PSX-Place for reuploading these files. More in
 INSTALLATION​:
 Installation is simple really, just copy/replace "PS3_GAME" folder from the mod pack into your Fallout 3 folder, and delete the Game Data for Fallout 3 from XMB. For those who need more help, ive listed detailed instructions below:
 
+FTP INSTRUCTIONS:
+
+Connect to your PS3 via your FTP app of choice and navagate to "dev_hdd0" or "dev_usb001" whichever one is your USB/HDD. 
+Select "dev_hdd0", and then select "GAMES", find your Fallout 3 game folder and copy the "PS3_GAME" directory from the 
+mod package to your Fallout 3 game folder overwriting all files when asked. Once the transfer is complete exit FTP and 
+browse to "Game" column on your XMB and select "Game Data Utility". Find "FALLOUT 3" within the list, once you find it 
+highlight it and press Triangle, then select "Delete", finally select "Yes". You're now all set to launch the game. 
+You can tell before launching the game if the installation was successful as the background splash screen for Fallout 3
+on the XMB changes to reflect the "Elite Edition" mod.
+
 HDD INSTRUCTIONS:​
 
 Download Fallout 3: Elite Edition Mod Pack and extract its contents. You should now have a folder named "PS3_GAME"
