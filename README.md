@@ -8,7 +8,7 @@ Download the mod package from the releases section or from here: http://www.medi
 Special thanks to Death_Dealer at PSX-Place for reuploading these files. More information can be located here: https://www.psx-place.com/threads/elite-electronics-projects-links.14275/
 
 INSTALLATION​:
-Installation is simple really, just copy/replace "PS3_GAME" folder from my mod pack into your Fallout 3 folder, and delete the Game Data for Fallout 3 from XMB. For those who need more help, ive listed detailed instructions below:
+Installation is simple really, just copy/replace "PS3_GAME" folder from the mod pack into your Fallout 3 folder, and delete the Game Data for Fallout 3 from XMB. For those who need more help, ive listed detailed instructions below:
 
 HDD INSTRUCTIONS:​
 
