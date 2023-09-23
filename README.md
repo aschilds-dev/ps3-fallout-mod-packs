@@ -3,6 +3,10 @@ Fallout 3 Elite Edition Mod Pack
 
 This is a reupload of the Fallout 3 Elite Edition Mod Pack for PlayStation 3 developed by Elite Electronics. More information can be located here: https://www.se7ensins.com/forums/threads/fallout-3-elite-edition-ps3-fallout-3-mods-40-mods-in-game-screeshot-fixed.1224188/
 
+DOWNLOAD:
+Download the mod package here: http://www.mediafire.com/file/l3q0urlpmvhaxxh/Fallout3-Elite_Edition_%28CORE_v2.4%29.zip
+Special thanks to Death_Dealer at PSX-Place for reuploading these files. More information can be located here: https://www.psx-place.com/threads/elite-electronics-projects-links.14275/
+
 INSTALLATION​:
 Installation is simple really, just copy/replace "PS3_GAME" folder from my mod pack into your Fallout 3 folder, and delete the Game Data for Fallout 3 from XMB. For those who need more help, ive listed detailed instructions below:
 
