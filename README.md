@@ -1,6 +1,6 @@
 # ps3-fallout-mod-packs
 
-I've been testing and collecting Fallout 3 and Fallout New Vegas mod packs that have been released for use with the PlayStation 3. This main page will be updated as I acquire and upload more mod packs as I locate and test them, currently we have the "Elite Edition" mod pack by Elite Electronics for Fallout 3 GOTY/Ultimate Edition and an "Ultimate Starter" mod pack for New Vegas, you can locate these on the releases page to download. Please refer to the readme.txt files included in each release for further detailed information on mod authors, credits, features, mod list, installation instructions and other details.
+I've been testing and collecting Fallout 3 and Fallout New Vegas mod packs that have been released for use with the PlayStation 3. This main page will be updated as I acquire and upload more mod packs and test them, currently we have the "Elite Edition" mod pack by Elite Electronics for Fallout 3 GOTY/Ultimate Edition and an "Cheat Terminal" mod pack for Fallout New Vegas Ultimate Edition, you can locate these on the releases page for download. Please refer to the readme.txt files included in each release for detailed information about these mod packs, mod authors, credits, features, mod lists, installation instructions and other details.
 
 - Fallout 3 Elite Edition Mod Pack for PlayStation 3 (for Fallout 3 GOTY Edition)
 
