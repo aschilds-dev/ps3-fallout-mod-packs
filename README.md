@@ -11,3 +11,10 @@ This is a reupload of the Fallout 3 Elite Edition Mod Pack for PlayStation 3 dev
 
 This modpack for Fallout New Vegas Ultimate Edition provides the player with a cheat terminal in Doc's office at the beginning of the game that's right next to the vigor testing machine (to spend/configure SPECIAL skills). It also includes a "portable terminal" that allows the player to access the cheat terminal anywhere in the game. More information is located on the release page and in the readme.txt that's included with the release.
 
+====================
+
+Tutorials, guides and reference information regarding how to create your own Fallout 3/New Vegas mod packs for the PlayStation 3:
+
+- https://nextgenupdate.com/forums/ps3-mods-cheats/304442-ps3-fallout-new-vegasfallout-3-1-modding-guide-1.html
+- https://nextgenupdate.com/forums/ps3-mods-cheats/298425-fallout-new-vegas-how-install-esp-mods-1.html
+
