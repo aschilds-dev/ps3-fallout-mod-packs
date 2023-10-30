@@ -11,6 +11,10 @@ This is a reupload of the Fallout 3 Elite Edition Mod Pack for PlayStation 3 dev
 
 This modpack for Fallout New Vegas Ultimate Edition provides the player with a cheat terminal in Doc's office at the beginning of the game that's right next to the vigor testing machine (to spend/configure SPECIAL skills). It also includes a "portable terminal" that allows the player to access the cheat terminal anywhere in the game. More information is located on the release page and in the readme.txt that's included with the release.
 
+- Fallout New Vegas Jihadi Mod Pack (v0.5) for PlayStation 3 (for Fallout New Vegas Ultimate Edition)
+
+This modpack for Fallout New Vegas Ultimate Edition contains extensive revisions and changes for how the game operates. Please see the notes on it's release page for additional information.
+
 ====================
 
 Tutorials, guides and reference information regarding how to create your own Fallout 3/New Vegas mod packs for the PlayStation 3:
