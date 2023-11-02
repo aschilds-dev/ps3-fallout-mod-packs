@@ -21,4 +21,4 @@ Tutorials, guides and reference information regarding how to create your own Fal
 
 - https://nextgenupdate.com/forums/ps3-mods-cheats/304442-ps3-fallout-new-vegasfallout-3-1-modding-guide-1.html
 - https://nextgenupdate.com/forums/ps3-mods-cheats/298425-fallout-new-vegas-how-install-esp-mods-1.html
-
+- https://nextgenupdate.com/forums/ps3-mods-cheats/763567-how-mod-fallout-3-fallout-3-goty-edition-3.html
